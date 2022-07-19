@@ -1,5 +1,5 @@
-#ifndef SORT_H
-#define SORT_H
+#ifndef BACCRIE
+#define BACCRIE
 
 #include <stdlib.h>
 /**
